@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Plane
+comment0.text=\r\n\ Reservation\ system\r\n\r\n\ @Ryan\ Regier\r\n\ @8/21/2017\r\n
+comment1.params=name\ size\ departureTime
+comment1.target=Plane(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ generateSeats()
+comment3.params=x\ y
+comment3.target=void\ reserveSeat(int,\ int)
+comment4.params=
+comment4.target=void\ printSeats()
+comment5.params=x\ y
+comment5.target=boolean\ openSeat(int,\ int)
+comment6.params=
+comment6.target=int\ getCSize()
+comment7.params=
+comment7.target=int\ getRSize()
+numComments=8
